@@ -1,0 +1,19 @@
+GIT COMANDO BASICO y ESTADOS
+(git add)═>WORKING DIRECTORY
+        ╚>STAGING AREA╗
+                      V
+                     git comming
+          REPOSITORY<╝
+Working Directory Donde se esta trabajando con mis archivo
+Pasamos los archivos Staging Areay pasa al Repository.
+Basic COMANDO:
+git init       |Es para crear un proyecto nuevo; cuando iniciamos en git
+git add <file> |Pasar los archivos de WORKING DIRECTORY a STAGING AREA
+git status     |Ver los estados de los Archivos y saber donde estan (WORKING DIRECTORY,STAGING AREA, REPORTORY)
+git commit     |Pasar de STAGING AREA y pasar REPOSITORY, es para crar una primera version del codigo
+git push       |Subir a un repositorio remoto, para poder sr accedido a otros programadores
+git pull       |Los cambios que hacen los otros programadores
+git clone      |Copia de otros repositorio para pasarlo a tu maquina.
+               
+
+               
