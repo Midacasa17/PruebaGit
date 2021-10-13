@@ -1,0 +1,9 @@
+Git 
+Que es?
+R/Sistema de control de Versiones (VCS)
+Distribuye versiones de Control
+Coordina trabajos entre multiples desarrolladores
+Poder manejar los cambios en cada Version(nveces)
+Es como una maquina del tiempo para ver las modificaciones y 
+revertir cambios.
+Trabaja de manera local y remoto
